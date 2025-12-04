@@ -1,4 +1,4 @@
-pyTelegramBotAPI
+pytelegrambotapi
 fastapi
 uvicorn
 python-multipart
